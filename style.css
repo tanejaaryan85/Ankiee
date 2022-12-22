@@ -2,3 +2,8 @@ img {
     height: 400px;
     width: auto;
 }
+
+body {
+    background-color: black;
+    color: white;
+}
